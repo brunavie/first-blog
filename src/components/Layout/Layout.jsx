@@ -13,11 +13,11 @@ export default ({children, title}) => (
             <aside className="aside">
                 <Sidebar 
                 title="A autora"
-                description="Sou uma desenvolvedora e entusiasta da programação que ama passar o tempo livre entre um bug e outro desvendando os mistérios da floricultura."
+                description="Sou um projeto de programadora, inconformada com o fato de não conseguir cultivar nem uma flor do deserto e que se encontra atualmente em uma ardua batalha contra a procrastinação e as gordurices. Bora programar enquanto o jardim não saí?"
                 />
                 <Sidebar 
                 title="Sobre o blog"
-                description="Uma coletânea da minha louca aventura rumo a terra dos amantes das plantas e suas terapias. Será que saio dessa menos louca? Sigam-me marujos!"
+                description="Uma coletânea da minha louca aventura rumo a terra dos programadores e amantes das plantas. Tá afim de embarcar nessa? Sigam-me marujos!"
                 />
             </aside>
             </Container>

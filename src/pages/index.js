@@ -1,11 +1,11 @@
-import React from 'react';
-import Layout from '../components/Layout';
+import React from "react";
+import Layout from "../components/Layout";
 import 'minireset.css';
 
-export default ({ data }) => (
-    <Layout>
-        <p>
-            Página inicial
-        </p>
-    </Layout>
+export default () => (
+  <Layout>
+    <p>
+      Página inicial
+    </p>
+  </Layout>
 );
