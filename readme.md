@@ -6,7 +6,7 @@ Simple blog created with node, gatsby, react and netlify
 * [Tecnologies](#tecnologies)
 * [Setup](#setup)
 * [Status](#status)
-* [Credits] (#credits)
+* [Credits](#credits)
 
 ## General Info
 This project aim was quite simple: a oportunity for web development and work-flow training. 
