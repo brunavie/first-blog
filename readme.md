@@ -19,8 +19,8 @@ The project was made with:
 * React version: 11.2.2
 
 ## Setup
-####Before anything else, install or be assure you have on you machine the version previosly informed (12.18.3) or above of Node.
-####Also make sure to check the package.json file for the needed dependencies list. You definitle want to have all them well installed at your machine.
+#### Before anything else, install or be assure you have on you machine the version previosly informed (12.18.3) or above of Node.
+#### Also make sure to check the package.json file for the needed dependencies list. You definitle want to have all them well installed at your machine.
 
 
 To run this project, install it locally using npm:
@@ -48,7 +48,7 @@ $ gatsby serve
 
 Withing the prompt output, a link directed to the blog will show. Click on it and take a peak of what it looks like at your main seted browser.
 
-######The final step is a challenge
+###### The final step is a challenge
 You can find a detailed tutorial on how to follow with the deploy of your blog at: https://www.joaopedro.cc/blog-com-gatsby-e-react-parte-5 or using the Netlify tutorial. Such a great homework for any starter coder.
 
 
