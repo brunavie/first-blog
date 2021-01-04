@@ -3,7 +3,7 @@ Simple blog created with node, gatsby, react and netlify
 
 ## Table of Contents
 * [Genetal Info](#general-info)
-* [TecHnologies](#tecnologies)
+* [Technologies](#tecnologies)
 * [Setup](#setup)
 * [Status](#status)
 * [Credits](#credits)
